@@ -1,8 +1,8 @@
 package org.chelobyte.todolist;
 
 import org.chelobyte.todolist.config.TaskListConfiguration;
-import org.chelobyte.todolist.work.Choice;
-import org.chelobyte.todolist.work.Printer;
+import org.chelobyte.todolist.engine.Choice;
+import org.chelobyte.todolist.engine.Printer;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
 import java.util.NoSuchElementException;

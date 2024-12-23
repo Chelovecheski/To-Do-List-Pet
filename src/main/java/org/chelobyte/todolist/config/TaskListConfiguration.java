@@ -1,7 +1,7 @@
 package org.chelobyte.todolist.config;
 
 import org.chelobyte.todolist.TaskList;
-import org.chelobyte.todolist.work.Choice;
+import org.chelobyte.todolist.engine.Choice;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Scope;

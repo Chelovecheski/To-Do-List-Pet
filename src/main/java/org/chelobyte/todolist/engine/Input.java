@@ -1,4 +1,4 @@
-package org.chelobyte.todolist.work;
+package org.chelobyte.todolist.engine;
 
 import java.util.Scanner;
 
